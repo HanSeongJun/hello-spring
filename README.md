@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 
-<img width="308" alt="스크린샷 2021-05-13 오후 4 37 52" src="https://user-images.githubusercontent.com/67749318/118094345-93a98d80-b409-11eb-903a-dfc6e3a0355e.png" >
+<img width="308" alt="스크린샷 2021-05-13 오후 4 37 52" src="https://user-images.githubusercontent.com/67749318/118094345-93a98d80-b409-11eb-903a-dfc6e3a0355e.png"  align='center'/>
 
 
 <p align='center'>
