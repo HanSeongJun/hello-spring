@@ -2,14 +2,17 @@ package hello.hellospring.service;
 
 import hello.hellospring.domain.Member;
 import hello.hellospring.repository.MemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 
-
 public class MemberService {
     private final MemberRepository memberRepository;
 
+    // 생성자에 @Autowired를 사용하면 객체 생성 시점에 스프링 컨테이너에서 해당 스프링 빈을 찾아서 주입한다.
+    // = DI
     public MemberService(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
